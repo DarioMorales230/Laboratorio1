@@ -1,6 +1,6 @@
 # Laboratorio1
 
-1. Objetivos 
+1. OBJETIVOS
 
 1.1 Objetivo General.
 
@@ -15,9 +15,9 @@
 •	Entender el funcionamiento de la corriente y voltaje para mejorar la identificación de los distintos tipos de circuitos también referentes a los conceptos de las Leyes de Kirchhoff, necesarios para afrontar los varios modelos de problemas que surgen en los escenarios planteados.
 
 
-2. Marco Teorico
+2. MARCO TEORICO
 
-3. Explicacion del Procedimiento 
+3. EXPLICACION DEL PROCEDIMIENTO
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
