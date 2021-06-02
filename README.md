@@ -21,7 +21,6 @@
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-
 ![Análisis del circuito utilizando conocimientos adquiridos acerca de la ley de Ohm y la ley de Kirchhoff-1](https://user-images.githubusercontent.com/85144847/120432618-cc20f500-c33f-11eb-964c-0de3a6f2b947.png)
 ![Análisis del circuito utilizando conocimientos adquiridos acerca de la ley de Ohm y la ley de Kirchhoff-2](https://user-images.githubusercontent.com/85144847/120432619-cd522200-c33f-11eb-80f0-dd81695eda27.png)
 ![Análisis del circuito utilizando conocimientos adquiridos acerca de la ley de Ohm y la ley de Kirchhoff-3](https://user-images.githubusercontent.com/85144847/120432622-cd522200-c33f-11eb-8f2a-3a09ef4b57a6.png)
@@ -31,6 +30,7 @@
 ![Análisis del circuito utilizando conocimientos adquiridos acerca de la ley de Ohm y la ley de Kirchhoff-7](https://user-images.githubusercontent.com/85144847/120432649-d642f380-c33f-11eb-9d70-dfd953ffaa51.png)
 
 5. VIDEO 
+
 https://youtu.be/LRNy5qodgCA
 
 6. Conslusiones
@@ -44,5 +44,7 @@ https://youtu.be/LRNy5qodgCA
 7. Bibliografia
 
 •	Análisis de Circuitos -Robbins
+
 •	Cuaderno de Electrotecnia I –Ing. Wilmer Loza
+
 •	Circuitos I –Ing. Wilmer Loza
