@@ -17,6 +17,9 @@
 
 2. MARCO TEORICO
 
+![untitled@2x (7)](https://user-images.githubusercontent.com/85144847/120498640-fd6fe400-c384-11eb-9067-67415dece4aa.png)
+
+
 3. EXPLICACION DEL PROCEDIMIENTO
 
 3.1. Revisar el tema a tratar con las respectivas indicaciones dadas por el docente y ver el material de experimentacion, en este caso es un circuito resistivo mixto donde nos indica que tenemos que sacar el voltaje y la intensidad de cada elemento resistivo que hay dentro del circuito.
