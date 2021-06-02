@@ -2,11 +2,11 @@
 
 1. OBJETIVOS
 
-1.1 Objetivo General.
+1.1. Objetivo General.
 
 •	Verificar y complementar el cumplimiento de las Leyes de Kirchhoff y las Leyes de Ohm mediante mediciones de voltaje, intensidades de corriente y resistencias en circuitos eléctricos.
 
-1.2 Objetivos Especificos 
+1.2. Objetivos Especificos 
 
 •	Familiarizar e interiorizar mediante el laboratorio el correcto uso de los instrumentos referentes a la práctica teniendo en cuenta las normas de seguridad y buen uso de los diferentes instrumentos o simulaciones, con la finalidad de reducir lo máximo posible los posibles errores de cálculo obteniendo así datos y resultados lo más acercados a la realidad.
 
@@ -18,6 +18,56 @@
 2. MARCO TEORICO
 
 3. EXPLICACION DEL PROCEDIMIENTO
+
+3.1. Revisar el tema a tratar con las respectivas indicaciones dadas por el docente y ver el material de experimentacion, en este caso es un circuito resistivo mixto donde nos indica que tenemos que sacar el voltaje y la intensidad de cada elemento resistivo que hay dentro del circuito.
+
+![Captura de pantalla (1101)](https://user-images.githubusercontent.com/85144847/120495364-3fe3f180-c382-11eb-9a14-09764d875550.png)
+
+3.2. Con la lectura previa y la revision de lo que debemos realizar procederemos a ver cuantos componentes tiene de forma receptora y generadora como nos indica la figura por ende nos quedaria de la siguiente forma los componentes.
+
+![Captura de pantalla (1102)](https://user-images.githubusercontent.com/85144847/120495463-58540c00-c382-11eb-8d3c-df71836cd2a9.png)
+
+
+3.3. Teniendo ya todos los materiales del circuito mixto nos dirigiremos a nuestro simulador que en este caso es Tinkercad que nos permite diseñar circuitos en forma pictografica con sus respectivas mediciones.
+
+![unnamed](https://user-images.githubusercontent.com/85144847/120495636-82a5c980-c382-11eb-806c-160ca6561319.png)
+
+
+3.4. Una vez ya en tinkercad procederemos hacer el circuito como nos indica el material de experimentacion por ende iremos escogiendo nuestros componentes señalados anteriormente, una vez ubicados y señalados nos quedaria tipo asi el circuito sin conectar.  
+
+![Captura de pantalla (1100)](https://user-images.githubusercontent.com/85144847/120495721-95200300-c382-11eb-8226-f77f583ee1c3.png)
+
+
+3.5. Y conectando los componenetes como nos indica la guia de experimentacion nos quedaria de la siguiente manera aqui hay que tener en cuenta algo y es que nosotros debemos conectar con codigo de colores de cable es decir el color rojo va a indicar que es positvio y el color negro negativo.
+
+![Captura de pantalla (1099)](https://user-images.githubusercontent.com/85144847/120495746-99e4b700-c382-11eb-9aa8-5c1952263aab.png)
+
+3.6. Como logramos apreciar tenemos ya todo el circuito conectado, normalizado y funcionando por ende ahora procederemos hacer las respectivas mediciones de voltajes para cada elemento receptor en este caso son las resistencias los elementos receptores.
+
+3.7. Para poder saber el voltaje que existe en cada resistencia es necesario el uso de un multimetro, el multimetro sera conectado en paralelo con la resistencia en circuito cerrado y encendido. 
+
+3.8. Con lo señalado anteriormente procederemos a conectar el positivo del multimetro con el positivo de la resistencia igualmente el negativo con el negativo toca respetar esto porque el multimetro tiene polaridades y cuando se conecta mal marcara un voltaje negativo, el positivo y el negativo de una resistencia se puede identificar de la siguiente manera por donde entra la corriente es postivo y por donde sale es negativo por ende el multimetro nos quedaria conectado de la siguiente manera.
+
+![Captura de pantalla (1096)](https://user-images.githubusercontent.com/85144847/120495866-b254d180-c382-11eb-8eec-df6168d4e372.png)
+
+
+3.9. Teniendo ya los voltajes de cada resistencia procederemos a sacar sus respectivas intensidades y esto se hace igualmente con el multimetro pero en la opcion de amperaje, el multimetro se conectara en cambio a circuito cerrado pero este va a estar en serie con un componenente en este caso con R1 por ende decimos que R1 y R5 tienen la misma intensidad porque estan conectadas en serie encambio R2 es resistencia compartida por la malla 1 y 2 por ende no tiene la misma intensidad.  
+
+![Captura de pantalla (1097)](https://user-images.githubusercontent.com/85144847/120495937-c26cb100-c382-11eb-9789-e19f6bb50a81.png)
+
+
+3.10. Ahora queremos saber la intensidad de R3 y R4 entonces conectaremos tambien el multimetro en serie con la resistencias R3 y R4 para poder ver su respectivo amperaje como sabemos en circuito serie la intensidad es la misma pero el voltaje diferente para cada componente receptor es decir R3 y R4 tienen la misma intensidad y nos quedaria asi.
+
+![Captura de pantalla (1098)](https://user-images.githubusercontent.com/85144847/120495950-c567a180-c382-11eb-97f8-8bdf9ed5cb5a.png)
+
+
+3.11. Ahora procederemos a encontrar la intensidad de R2 y esto deducimos de dos maneras la primera es de la siguiente manera es muy chevere solo debemos conectar en serie con R2 y nos daria su amperaje correspondiente, la segunda forma de encontrar la intensidad es solo darnos cuenta R2 es compartida por la malla 1 y 2 por ende su intensidad va hacer la resta de la de la IM1 - IM2 que nos daria un total de 1.08 mA.
+
+
+3.12. Una vez finalizado el laboratorio vemos los datos obtenidos y comparamos con nuestros datos calculos y vemos que cumple perfectamente con los resultados claro con un margen de error.
+
+3.13. Gracias por la atencion prestada.
+
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
@@ -48,3 +98,8 @@ https://youtu.be/LRNy5qodgCA
 •	Cuaderno de Electrotecnia I –Ing. Wilmer Loza
 
 •	Circuitos I –Ing. Wilmer Loza
+
+
+
+
+
